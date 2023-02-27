@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Lone Tsie
+#### *I am a data analyist
+I am also a Github campus expert
 
 <!--
 **LoneBTsie/LoneBTsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
